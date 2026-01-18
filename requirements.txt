@@ -1,0 +1,4 @@
+chromadb>=1.4.1
+fastmcp>=2.14.3
+gnews>=0.4.3
+sentence-transformers>=5.2.0
